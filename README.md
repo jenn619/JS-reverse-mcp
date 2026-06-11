@@ -269,7 +269,7 @@ npm run inspector
 
 ## 八、实战案例
 
-以下是对 `https://tync.ecust.edu.cn/admin/#/login` 的逆向分析结果：
+以下是对 `https://XXXXXXX.edu.cn/admin/#/login` 的逆向分析结果：
 
 ### 抓包结果
 ```
