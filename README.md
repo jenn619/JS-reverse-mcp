@@ -158,7 +158,7 @@ cd js-reverse-mcp
 npm install
 
 # 3. 编译 TypeScript
-npm run build
+npm run build （注意：启动项目前检查下所需的依赖是否齐全）
 ```
 
 ### 5.3 环境变量
